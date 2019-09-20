@@ -3,6 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP TLV62568DBVT
 D 2.5V-5.5V input, 1A high efficiency step-down buck converter in SOT23 and SOT563 package
 K TLV62568DBVT
+F http://www.ti.com/lit/ds/symlink/tlv62568.pdf
 $ENDCMP
 #
 $CMP TPS54231D
