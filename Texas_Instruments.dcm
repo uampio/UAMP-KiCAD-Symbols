@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DRV8873S
+F http://www.ti.com/lit/ds/symlink/drv8873.pdf#%5B%7B%22num%22%3A115%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C720%2C0%5D
+$ENDCMP
+#
 $CMP SN74LVC2G07
 F http://www.ti.com/lit/ds/symlink/sn74lvc2g07.pdf
 $ENDCMP
