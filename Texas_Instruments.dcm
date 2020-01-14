@@ -8,7 +8,17 @@ $CMP ISO7741
 F http://www.ti.com/lit/ds/symlink/iso7741.pdf
 $ENDCMP
 #
+$CMP LM74610-Q1
+D Low Iq reverse battery protection ideal diode controller, SOT-23-6
+K ideal-diode or-ing
+F http://www.ti.com/lit/ds/symlink/lm74610-q1.pdf
+$ENDCMP
+#
 $CMP LM9036M-3.3-NOPB
+F http://www.ti.com/lit/ds/snvs140e/snvs140e.pdf
+$ENDCMP
+#
+$CMP LM9036M-5.0-NOPB
 F http://www.ti.com/lit/ds/snvs140e/snvs140e.pdf
 $ENDCMP
 #
