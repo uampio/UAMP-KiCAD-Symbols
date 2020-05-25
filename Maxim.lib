@@ -8,6 +8,10 @@ F0 "U" 450 250 50 H V L CNN
 F1 "MAX4690CAE" 250 150 50 H V L CNN
 F2 "Package_SO:SSOP-16_4.4x5.2mm_P0.65mm" 0 -100 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "Maxim" 0 0 50 H V C CNN "Manufacturer"
+F5 "MAX4690EAE+" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "190-5670" 0 0 50 H V C CNN "Supplier name"
+F7 "RS" 0 0 50 H V C CNN "Supplier part number (SPN)"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST

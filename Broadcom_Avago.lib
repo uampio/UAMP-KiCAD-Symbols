@@ -5,9 +5,13 @@ EESchema-LIBRARY Version 2.4
 #
 DEF ACPL-214 U 0 40 Y Y 1 F N
 F0 "U" 0 200 50 H V C CNN
-F1 "ACPL-214" 0 300 50 H V C CNN
+F1 "ACPL-214" 0 300 50 H I C CNN
 F2 "Package_SO:SO-4_4.4x2.3mm_P1.27mm" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
+F4 "Broadcom" 0 0 50 H I C CNN "Manufacturer"
+F5 "ACPL-214-500E" 0 0 50 H I C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H I C CNN "Supplier name"
+F7 "630-ACPL-214-500E" 0 0 50 H I C CNN "Supplier part number (SPN)"
 DRAW
 S -250 150 250 -150 0 1 0 f
 P 4 0 1 0 -150 100 -50 100 -50 -100 -150 -100 N

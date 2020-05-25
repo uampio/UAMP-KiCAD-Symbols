@@ -95,6 +95,10 @@ F0 "U" -375 -350 50 H V C CNN
 F1 "LM74610-Q1" 300 -350 50 H V C CNN
 F2 "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm" -375 -350 50 H I C CNN
 F3 "" -375 -350 50 H I C CNN
+F4 "Texas Instruments" 0 0 50 H V C CNN "Manufacturer"
+F5 "LM74610QDGKRQ1" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H V C CNN "Supplier name"
+F7 "595-LM74610QDGKRQ1" 0 0 50 H V C CNN "Supplier part number (SPN)"
 $FPLIST
  SOT?23*
 $ENDFPLIST
@@ -138,6 +142,10 @@ F0 "U" 0 -50 50 H V C CNN
 F1 "LM9036M-5.0-NOPB" 0 50 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+F4 "Texas Instruments" 0 0 50 H V C CNN "Manufacturer"
+F5 "LM9036M-5.0-NOPB" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H V C CNN "Supplier name"
+F7 "926-LM9036M-50/NOPB" 0 0 50 H V C CNN "Supplier part number (SPN)"
 DRAW
 S -450 250 450 -500 0 1 0 f
 X OUT 1 550 150 100 L 50 50 1 1 W
@@ -158,6 +166,10 @@ F0 "U" 0 450 50 H V C CNN
 F1 "SN74LVC2G07" 0 550 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-23-6" 100 400 50 H I C CNN
 F3 "" 0 450 50 H I C CNN
+F4 "Texas Instruments" 0 0 50 H V C CNN "Manufacturer"
+F5 "SN74LVC2G07DBVR" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H V C CNN "Supplier name"
+F7 "595-SN74LVC2G07DBVR" 0 0 50 H V C CNN "Supplier part number (SPN)"
 DRAW
 S -150 200 150 -200 3 1 0 f
 P 5 1 1 0 150 0 -100 150 -100 0 -100 -150 150 0 f
@@ -178,6 +190,10 @@ F0 "U" 0 250 50 H V C CNN
 F1 "TLV62568DBVT" 0 350 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-23-5" 0 250 50 H I C CNN
 F3 "" 0 250 50 H I C CNN
+F4 "Texas Instruments" 0 0 50 H V C CNN "Manufacturer"
+F5 "TLV62568DBVT" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H V C CNN "Supplier name"
+F7 "595-TLV62568DBVT" 0 0 50 H V C CNN "Supplier part number (SPN)"
 DRAW
 S -200 200 200 -200 0 1 0 f
 X EN 1 -300 0 100 R 50 50 1 1 I
@@ -195,6 +211,10 @@ F0 "U" 0 350 50 H V C CNN
 F1 "TPS54231D" 0 450 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 350 50 H I C CNN
 F3 "" 0 350 50 H I C CNN
+F4 "Texas Instruments" 0 0 50 H V C CNN "Manufacturer"
+F5 "TPS54231D" 0 0 50 H V C CNN "Manufacturer part number (MPN)"
+F6 "Mouser" 0 0 50 H V C CNN "Supplier name"
+F7 "595-TPS54231D" 0 0 50 H V C CNN "Supplier part number (SPN)"
 DRAW
 S -300 300 300 -300 0 1 0 f
 X BOOT 1 400 200 100 L 50 50 1 1 O
