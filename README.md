@@ -10,4 +10,4 @@ root_folder/ (UAMPGITHUB)
         UAMP-KiCAD-Packages3D
         UAMP-KiCAD-Symbols
 
-![alt text](https://github.com/AMSMarcoRBosco/AMS-KiCAD-Symbols/blob/master/ams_path.png)
+![alt text](https://github.com/uampio/UAMP-KiCAD-Symbols/blob/master/uamp_path_symbols.png)
