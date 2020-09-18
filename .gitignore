@@ -24,3 +24,5 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+.vscode/c_cpp_properties.json
+.vscode/settings.json
