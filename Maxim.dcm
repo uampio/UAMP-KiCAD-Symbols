@@ -1,9 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MAX4690CAE
-D Dual SPST CMOS Analog Switches, normally OFF, 1.25Ohm Ron, SOIC-8
-K CMOS Analog Switch
-F https://datasheets.maximintegrated.com/en/ds/MAX4680-MAX4700.pdf
+$CMP MAX4515
+F https://datasheets.maximintegrated.com/en/ds/MAX4514-MAX4515.pdf
 $ENDCMP
 #
 #End Doc Library
